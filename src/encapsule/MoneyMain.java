@@ -2,9 +2,7 @@ package encapsule;
 
 import java.util.Scanner;
 
-import bean.Money;
-
-public class Test {
+public class MoneyMain {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		Money money = new Money();

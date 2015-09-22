@@ -1,4 +1,4 @@
-package bean;
+package encapsule;
 
 import java.util.Scanner;
 
