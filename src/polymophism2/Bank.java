@@ -1,4 +1,4 @@
-package polymiphism2;
+package polymophism2;
 
 public interface Bank {
 	// 1. 개설
