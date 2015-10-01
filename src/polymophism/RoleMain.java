@@ -1,8 +1,10 @@
 package polymophism;
 
 /**
- * @file_name : RoleMain.java author : soomin0322@naver.com date : 2015. 9. 30.
- *            story : 객체지향 특성을 설명하는 간단한(?) 예제
+ * @file_name : RoleMain.java 
+ * author : soomin0322@naver.com 
+ * date : 2015. 9. 30.
+ * story : 객체지향 특성을 설명하는 간단한(?) 예제
  */
 public class RoleMain {
 	public static void main(String[] args) {
