@@ -16,7 +16,7 @@ public class RoleMain {
 		 * 
 		 */
 		//	다형성
-		Human [] roles = new Human [3];		// 배열이기 때문에 성립 가능
+		Human [] roles = new Man [3];		// 배열이기 때문에 성립 가능
 		roles[0] = new Husband();
 		roles[1] = new Employee();
 		roles[2] = new Father();
